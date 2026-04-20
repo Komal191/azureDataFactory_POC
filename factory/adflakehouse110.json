@@ -1,0 +1,9 @@
+{
+	"name": "adflakehouse110",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7520c6b-fa88-4694-ad4b-20b466bab731",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
